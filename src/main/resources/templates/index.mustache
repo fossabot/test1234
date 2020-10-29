@@ -1,0 +1,130 @@
+<!--
+=========================================================
+* Argon Dashboard - v1.2.0
+=========================================================
+* Product Page: https://www.creative-tim.com/product/argon-dashboard
+
+* Copyright  Creative Tim (http://www.creative-tim.com)
+* Coded by www.creative-tim.com
+
+=========================================================
+* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+-->
+
+<!DOCTYPE html>
+<html>
+
+{{>layout/header}}
+
+<body>
+<!-- Sidenav -->
+{{>layout/sidebar}}
+
+<!-- Main content -->
+<div class="main-content" id="panel">
+
+    <!-- Topnav -->
+    {{>layout/navbar}}
+
+    <!-- Header -->
+    <div class="header bg-primary pb-6">
+        <div class="container-fluid">
+            <div class="header-body">
+                <div class="row align-items-center py-4">
+                    <div class="col-lg-6 col-7">
+                        <i class="bg-"></i>
+                        <h6 class="h2 text-white d-inline-block mb-0">실시간 기기 반납 현황</h6>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Page content -->
+    <div class="container-fluid mt--6">
+
+        <div class="row" id="device_list">
+
+        </div>
+
+        <!-- Footer -->
+        {{>layout/footer}}
+    </div>
+</div>
+
+<!-- Argon Scripts -->
+<!-- Core -->
+{{>layout/plugins}}
+</body>
+</html>
+
+<script language="JavaScript">
+    $(document).ready(function () {
+        getDeviceData()
+
+        function getDeviceData(){
+            $.ajax({
+                url: '/api/soldier/return/status',
+                type: "GET",
+                data: JSON,
+                success:function(data){
+                    var str = "";
+                    $(data).each(
+                            function () {
+                                str += "<div class='col-xl-3 col-md-6'>\n" +
+                                        "            <div class='card card-stats bg-dark text-white'>\n" +
+                                        "                <div class='card-body'>\n" +
+                                        "                    <div class='row'>\n" +
+                                        "                        <p class='col-sm-9 mb-0 p-0 text-left'>\n" +
+                                        "                            <span class='ml-3 h2 text-white font-weight-bold mb-0'>" + this.name + " (" + this.serviceNumber +")" + "</span>\n" +
+                                        "                        </p>\n" +
+                                        "                        <p class='col-sm-3 mb-0 pl-0 text-right'>\n" +
+                                        "                            <span class='badge badge-dot'>\n" +
+                                        "                                <span class='status mr-2'>"+ getState(this.state) +"</span>" +
+                                        "                                <i class='" + this.icon + "'></i>\n" +
+                                        "                            </span>\n" +
+                                        "                        </p>\n" +
+                                        "                    </div>\n" +
+                                        "                    <div class='row'>\n" +
+                                        "                        <p class='col mb-0 text-left'>\n" +
+                                        "                            <span class='text-nowrap mr-2'>" + this.manufacturer + "</span>\n" +
+                                        "                        </p>\n" +
+                                        "                        <p class='col mb-0 text-right pr-1'>\n" +
+                                        "                            <span class='text-sm mr-2'>"+ isTimeNull(this.returnTime) +"</span>\n" +
+                                        "                        </p>\n" +
+                                        "                    </div>\n" +
+                                        "                    <div class='row'>\n" +
+                                        "                        <p class='col mb-0'>\n" +
+                                        "                            <span class='text-sm mr-2'>ID : " + this.guid + "</span>\n" +
+                                        "                        </p>\n" +
+                                        "                    </div>\n" +
+                                        "                </div>\n" +
+                                        "            </div>\n" +
+                                        "        </div>"
+                            });
+                    $("#device_list").html(str);
+                },
+            });
+
+            function getState(state){
+                if(state == "NON_PASS"){
+                    return "<span class='status mr-2'>미반납</span>"
+                } else if(state == "WEIGHT_FAULT"){
+                    return "<span class='status mr-2'>무게이상</span>"
+                } else if(state == "TIME_DELAY"){
+                    return "<span class='status mr-2'>지연반납</span>"
+                } else {
+                    return "<span class='status mr-2'>정상반납</span>"
+                }
+            }
+
+            function isTimeNull(time) {
+                if (typeof time == "undefined" || time == null || time == "") {
+                    return ""
+                } else {
+                    return time
+                }
+            }
+        }
+    });
+</script>
