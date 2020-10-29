@@ -32,6 +32,12 @@
 본 프로젝트는 오픈소스 프로젝트로 진행되며, 본 프로젝트에 관심이 있는 개발자, 사용자들을 위해 튜토리얼 GitBook을 제작하여 공개하고 있습니다.
 
 <p align="center">
+<a href="https://youtu.be/vE43qMqlVfU"  target="_blank">
+<img src="http://img.youtube.com/vi/vE43qMqlVfU/0.jpg">
+</a>
+</p>
+
+<p align="center">
 <a href="https://naver.com"  target="_blank">
 <img src="https://img.shields.io/badge/GitBook-project_doc-blue?&style=for-the-badge&logo=github">
 </a>
