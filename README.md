@@ -91,9 +91,12 @@ QR코드 인식, 무게 감지, 문 잠금, 서버와의 통신 등의 기능이
 
 ### WEB(Front-End)
 Argon Dashboard를 관리자용 페이지를 제작하였으며, 간편하게 반납 정보 조회 및 관리를 할 수 있도록 제작되었습니다.
-
-<img src="https://user-images.githubusercontent.com/32615702/97557804-9cfb7b80-1a1e-11eb-97f7-29803bd21e79.png">
-<img src="https://user-images.githubusercontent.com/32615702/97557809-9ec53f00-1a1e-11eb-982a-2ae13bdc3299.png">
+<table>
+<tr>
+<td><img src="https://user-images.githubusercontent.com/32615702/97557804-9cfb7b80-1a1e-11eb-97f7-29803bd21e79.png"></td>
+<td><img src="https://user-images.githubusercontent.com/32615702/97557809-9ec53f00-1a1e-11eb-982a-2ae13bdc3299.png"></td>
+</tr>
+</table>
 
 ## 컴퓨터 구성 / 필수 조건 안내 (Prerequisites)
 
