@@ -71,6 +71,7 @@ QR코드 인식, 무게 감지, 문 잠금, 서버와의 통신 등의 기능이
 ### APP
 초기 등록시에 서버와 통신하여 기기를 등록한 뒤, 이후에는 Time-based OTP기술을 활용해 기기 고유의 QR코드를 출력합니다. 이 앱은 어떠한 권한도 요구하지 않습니다.
 
+
 <table>
 <tr>
 <td><img src="https://user-images.githubusercontent.com/32615702/97541954-52bbcf80-1a09-11eb-876a-c20fcffd9d6d.jpg"></td>
@@ -79,11 +80,13 @@ QR코드 인식, 무게 감지, 문 잠금, 서버와의 통신 등의 기능이
 </tr>
 </table>
 
-- Back-End(Server): 기기 관리자 현황, 등록 기기 현황, 기기 반납 현황을 관리하는 서버입니다. 각종 API를 지원하며, 주로 POST와 GET을 통해 요청을 받습니다.
+### WEB(Back-End API Server)
+기기 관리자 현황, 등록 기기 현황, 기기 반납 현황을 관리하는 서버입니다. 각종 API를 지원하며, 주로 POST와 GET을 통해 요청을 받습니다.
 
 [Swagger UI](https://osam.riyenas.dev/swagger-ui.html)
 
-- Front-End: Argon Dashboard를 관리자용 페이지를 제작하였으며, 간편하게 반납 정보 조회 및 관리를 할 수 있도록 제작되었습니다.
+### WEB(Front-End)
+Argon Dashboard를 관리자용 페이지를 제작하였으며, 간편하게 반납 정보 조회 및 관리를 할 수 있도록 제작되었습니다.
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4a09a709-583a-49a6-aef7-759a0b459deb/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4a09a709-583a-49a6-aef7-759a0b459deb/Untitled.png)
 
