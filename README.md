@@ -51,7 +51,7 @@
 </a>
 
 <a href="https://osam.riyenas.dev">
-<img src="https://img.shields.io/badge/WebSite-Live--Demo-blueviolet?&style=for-the-badge&logo=swagger">
+<img src="https://img.shields.io/badge/WebSite-Live--Demo-blueviolet?&style=for-the-badge&logo=google">
 </a>
 </p>
 
