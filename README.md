@@ -83,14 +83,17 @@ QR코드 인식, 무게 감지, 문 잠금, 서버와의 통신 등의 기능이
 ### WEB(Back-End API Server)
 기기 관리자 현황, 등록 기기 현황, 기기 반납 현황을 관리하는 서버입니다. 각종 API를 지원하며, 주로 POST와 GET을 통해 요청을 받습니다.
 
-[Swagger UI](https://osam.riyenas.dev/swagger-ui.html)
+<p align="center">
+<a href="https://osam.riyenas.dev/swagger-ui.html">
+<img src="https://img.shields.io/badge/Swagger-API_Doc-yellow?&style=for-the-badge&logo=swagger">
+</a>
+</p>
 
 ### WEB(Front-End)
 Argon Dashboard를 관리자용 페이지를 제작하였으며, 간편하게 반납 정보 조회 및 관리를 할 수 있도록 제작되었습니다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4a09a709-583a-49a6-aef7-759a0b459deb/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4a09a709-583a-49a6-aef7-759a0b459deb/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5b600665-b2e6-40ef-a9ae-dc04e74e0855/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5b600665-b2e6-40ef-a9ae-dc04e74e0855/Untitled.png)
+<img src="https://user-images.githubusercontent.com/32615702/97557804-9cfb7b80-1a1e-11eb-97f7-29803bd21e79.png">
+<img src="https://user-images.githubusercontent.com/32615702/97557809-9ec53f00-1a1e-11eb-982a-2ae13bdc3299.png">
 
 ## 컴퓨터 구성 / 필수 조건 안내 (Prerequisites)
 
