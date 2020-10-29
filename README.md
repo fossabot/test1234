@@ -43,11 +43,15 @@
 </a>
     
 <a href="https://www.notion.so/OSAM-265735b9b76b4bccbff7ce2c4739acd9"  target="_blank">
-<img src="https://img.shields.io/badge/NOTION-team_page-blue?&style=for-the-badge&logo=notion">
+<img src="https://img.shields.io/badge/NOTION-team_page-green?&style=for-the-badge&logo=notion">
 </a>
 
 <a href="https://osam.riyenas.dev/swagger-ui.html">
-<img src="https://img.shields.io/badge/Swagger-API_Doc-blue?&style=for-the-badge&logo=swagger">
+<img src="https://img.shields.io/badge/Swagger-API_Doc-yellow?&style=for-the-badge&logo=swagger">
+</a>
+
+<a href="https://osam.riyenas.dev">
+<img src="https://img.shields.io/badge/WebSite-Live--Demo-blueviolet?&style=for-the-badge&logo=swagger">
 </a>
 </p>
 
