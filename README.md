@@ -3,30 +3,16 @@
 </p>
 
 
-<p align="center">
-<h3 align="left">WEB Repository
-<img src="https://github.com/osamhack2020/WEB_KookMoBan_PonJohmNaimann/workflows/Java%20CI%20with%20Gradle/badge.svg?branch=develop">
-<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/osamhack2020/WEB_KookMoBan_PonJohmNaimann">
-<img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/osamhack2020/WEB_KookMoBan_PonJohmNaimann">
-<img alt="GitHub" src="https://img.shields.io/github/license/osamhack2020/WEB_KookMoBan_PonJohmNaimann">
-</h3>
-</p>
+<h3 align="left">WEB Repository</h3>
 
-<p align="left">
-    <h3 align="center">IoT Repository 
-    <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/osamhack2020/IoT_KookMoBan_PonJohmNaimann">
-    <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/osamhack2020/IoT_KookMoBan_PonJohmNaimann">
-    <img alt="GitHub" src="https://img.shields.io/github/license/osamhack2020/IoT_KookMoBan_PonJohmNaimann">
-    </h3>
-</p>
+<img src="https://github.com/osamhack2020/WEB_KookMoBan_PonJohmNaimann/workflows/Java%20CI%20with%20Gradle/badge.svg?branch=develop"> <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/osamhack2020/WEB_KookMoBan_PonJohmNaimann"> <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/osamhack2020/WEB_KookMoBan_PonJohmNaimann"> <img alt="GitHub" src="https://img.shields.io/github/license/osamhack2020/WEB_KookMoBan_PonJohmNaimann">
 
-<p align="left">
-<h3 align="center">App Repository
-<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/osamhack2020/APP_KookMoBanUser_PonJohmNaimann">
-<img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/osamhack2020/APP_KookMoBanUser_PonJohmNaimann">
-<img alt="GitHub" src="https://img.shields.io/github/license/osamhack2020/APP_KookMoBanUser_PonJohmNaimann">
-</h3>
-</p>
+<h3 align="left">IoT Repository</h3>
+
+<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/osamhack2020/IoT_KookMoBan_PonJohmNaimann"> <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/osamhack2020/IoT_KookMoBan_PonJohmNaimann"> <img alt="GitHub" src="https://img.shields.io/github/license/osamhack2020/IoT_KookMoBan_PonJohmNaimann">
+
+<h3 align="left">App Repository</h3>
+<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/osamhack2020/APP_KookMoBanUser_PonJohmNaimann"> <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/osamhack2020/APP_KookMoBanUser_PonJohmNaimann"> <img alt="GitHub" src="https://img.shields.io/github/license/osamhack2020/APP_KookMoBanUser_PonJohmNaimann">
 
 ## 팀소개
 '폰 좀 내이만(Pon Johm Naimann)' 팀은 생활관 병사 스마트폰 비대면 반납 시스템 개발을 목표로 '국방모바일반납' 프로젝트를 진행하고 있습니다.
