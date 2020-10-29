@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<h3 align="center">WEB 분야
+<h3 align="left">WEB Repository
 <img src="https://github.com/osamhack2020/WEB_KookMoBan_PonJohmNaimann/workflows/Java%20CI%20with%20Gradle/badge.svg?branch=develop">
 <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/osamhack2020/WEB_KookMoBan_PonJohmNaimann">
 <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/osamhack2020/WEB_KookMoBan_PonJohmNaimann">
@@ -12,16 +12,16 @@
 </h3>
 </p>
 
-<p align="center">
-    <h3 align="center">IoT 분야 
+<p align="left">
+    <h3 align="center">IoT Repository 
     <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/osamhack2020/IoT_KookMoBan_PonJohmNaimann">
     <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/osamhack2020/IoT_KookMoBan_PonJohmNaimann">
     <img alt="GitHub" src="https://img.shields.io/github/license/osamhack2020/IoT_KookMoBan_PonJohmNaimann">
     </h3>
 </p>
 
-<p align="center">
-<h3 align="center">App 분야
+<p align="left">
+<h3 align="center">App Repository
 <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/osamhack2020/APP_KookMoBanUser_PonJohmNaimann">
 <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/osamhack2020/APP_KookMoBanUser_PonJohmNaimann">
 <img alt="GitHub" src="https://img.shields.io/github/license/osamhack2020/APP_KookMoBanUser_PonJohmNaimann">
