@@ -3,15 +3,15 @@
 </p>
 
 
-<h4 align="left">WEB Repository</h4>
+<h5 align="left">WEB Repository</h5>
 
-<img src="https://github.com/osamhack2020/WEB_KookMoBan_PonJohmNaimann/workflows/Java%20CI%20with%20Gradle/badge.svg?branch=develop"> <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/osamhack2020/WEB_KookMoBan_PonJohmNaimann"> <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/osamhack2020/WEB_KookMoBan_PonJohmNaimann"> <img alt="GitHub" src="https://img.shields.io/github/license/osamhack2020/WEB_KookMoBan_PonJohmNaimann">
+<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/osamhack2020/WEB_KookMoBan_PonJohmNaimann"> <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/osamhack2020/WEB_KookMoBan_PonJohmNaimann"> <img alt="GitHub" src="https://img.shields.io/github/license/osamhack2020/WEB_KookMoBan_PonJohmNaimann"> <img src="https://github.com/osamhack2020/WEB_KookMoBan_PonJohmNaimann/workflows/Java%20CI%20with%20Gradle/badge.svg?branch=develop">
 
-<h4 align="left">IoT Repository</h4>
+<h5 align="left">IoT Repository</h5>
 
 <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/osamhack2020/IoT_KookMoBan_PonJohmNaimann"> <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/osamhack2020/IoT_KookMoBan_PonJohmNaimann"> <img alt="GitHub" src="https://img.shields.io/github/license/osamhack2020/IoT_KookMoBan_PonJohmNaimann">
 
-<h4 align="left">App Repository</h4>
+<h5 align="left">App Repository</h5>
 
 <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/osamhack2020/APP_KookMoBanUser_PonJohmNaimann"> <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/osamhack2020/APP_KookMoBanUser_PonJohmNaimann"> <img alt="GitHub" src="https://img.shields.io/github/license/osamhack2020/APP_KookMoBanUser_PonJohmNaimann">
 
