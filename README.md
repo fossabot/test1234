@@ -30,6 +30,7 @@
 <a href="https://www.notion.so/OSAM-265735b9b76b4bccbff7ce2c4739acd9"  target="_blank">
 <img src="https://img.shields.io/badge/NOTION-team_page-green?&style=for-the-badge&logo=notion">
 </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Friyenas0925%2Ftest1234?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Friyenas0925%2Ftest1234.svg?type=shield"/></a>
 
 <a href="https://osam.riyenas.dev/swagger-ui.html">
 <img src="https://img.shields.io/badge/Swagger-API_Doc-yellow?&style=for-the-badge&logo=swagger">
@@ -135,3 +136,6 @@ Argon Dashboard를 관리자용 페이지를 제작하였으며, 간편하게 �
 - lee jin whuy ([jinwhuy.lee@gmail.com](mailto:jinwhuy.lee@gmail.com)), Github Id: jinwhuy
 
 ## 저작권 및 사용권 정보 (Copyleft / End User License)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Friyenas0925%2Ftest1234.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Friyenas0925%2Ftest1234?ref=badge_large)
