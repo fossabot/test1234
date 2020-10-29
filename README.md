@@ -38,11 +38,17 @@
 </p>
 
 <p align="center">
-<a href="https://naver.com"  target="_blank">
+<a href="https://kookmoban.gitbook.io/osam/">
 <img src="https://img.shields.io/badge/GitBook-project_doc-blue?&style=for-the-badge&logo=github">
 </a>
+    
+<a href="https://www.notion.so/OSAM-265735b9b76b4bccbff7ce2c4739acd9"  target="_blank">
 <img src="https://img.shields.io/badge/NOTION-team_page-blue?&style=for-the-badge&logo=notion">
+</a>
+
+<a href="https://osam.riyenas.dev/swagger-ui.html">
 <img src="https://img.shields.io/badge/Swagger-API_Doc-blue?&style=for-the-badge&logo=swagger">
+</a>
 </p>
 
 ## 기능 설계
