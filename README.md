@@ -60,8 +60,8 @@ QR코드 인식, 무게 감지, 문 잠금, 서버와의 통신 등의 기능이
 <td><img src="https://user-images.githubusercontent.com/32615702/97555214-2e68ee80-1a1b-11eb-8f17-f92282fab0c6.png"></td>
 </tr>
 <tr>
-<td><img src="https://user-images.githubusercontent.com/32615702/97554899-c914fd80-1a1a-11eb-9a2b-e5334d59531e.GIF"></td>
 <td><img src="https://user-images.githubusercontent.com/32615702/97554903-ca462a80-1a1a-11eb-888d-04530340a13f.GIF"></td>
+<td colspan="2"><img src="https://user-images.githubusercontent.com/32615702/97554899-c914fd80-1a1a-11eb-9a2b-e5334d59531e.GIF"></td>
 </tr>
 </table>
 
