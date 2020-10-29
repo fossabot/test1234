@@ -2,6 +2,32 @@
 <img alt="GitHub contributors" src="https://user-images.githubusercontent.com/32615702/97505907-21b5ad80-19bd-11eb-9d03-4959b24b4375.png" width="50%">
 </p>
 
+
+<p align="center">
+<h3 align="center">WEB 분야
+<img src="https://github.com/osamhack2020/WEB_KookMoBan_PonJohmNaimann/workflows/Java%20CI%20with%20Gradle/badge.svg?branch=develop">
+<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/osamhack2020/WEB_KookMoBan_PonJohmNaimann">
+<img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/osamhack2020/WEB_KookMoBan_PonJohmNaimann">
+<img alt="GitHub" src="https://img.shields.io/github/license/osamhack2020/WEB_KookMoBan_PonJohmNaimann">
+</h3>
+</p>
+
+<p align="center">
+    <h3 align="center">IoT 분야 
+    <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/osamhack2020/IoT_KookMoBan_PonJohmNaimann">
+    <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/osamhack2020/IoT_KookMoBan_PonJohmNaimann">
+    <img alt="GitHub" src="https://img.shields.io/github/license/osamhack2020/IoT_KookMoBan_PonJohmNaimann">
+    </h3>
+</p>
+
+<p align="center">
+<h3 align="center">App 분야
+<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/osamhack2020/APP_KookMoBanUser_PonJohmNaimann">
+<img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/osamhack2020/APP_KookMoBanUser_PonJohmNaimann">
+<img alt="GitHub" src="https://img.shields.io/github/license/osamhack2020/APP_KookMoBanUser_PonJohmNaimann">
+</h3>
+</p>
+
 ## 팀소개
 '폰 좀 내이만(Pon Johm Naimann)' 팀은 생활관 병사 스마트폰 비대면 반납 시스템 개발을 목표로 '국방모바일반납' 프로젝트를 진행하고 있습니다.
 
@@ -34,29 +60,6 @@
 <img src="http://img.youtube.com/vi/vE43qMqlVfU/0.jpg">
 </a>
 </p>
-
-<h3 align="center">WEB 분야</h3>
-<p align="center">
-<img src="https://github.com/osamhack2020/WEB_KookMoBan_PonJohmNaimann/workflows/Java%20CI%20with%20Gradle/badge.svg?branch=develop">
-<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/osamhack2020/WEB_KookMoBan_PonJohmNaimann">
-<img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/osamhack2020/WEB_KookMoBan_PonJohmNaimann">
-<img alt="GitHub" src="https://img.shields.io/github/license/osamhack2020/WEB_KookMoBan_PonJohmNaimann">
-</p>
-
-<h3 align="center">IoT 분야</h3>
-<p align="center">
-<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/osamhack2020/IoT_KookMoBan_PonJohmNaimann">
-<img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/osamhack2020/IoT_KookMoBan_PonJohmNaimann">
-<img alt="GitHub" src="https://img.shields.io/github/license/osamhack2020/IoT_KookMoBan_PonJohmNaimann">
-</p>
-
-<h3 align="center">App 분야</h3>
-<p align="center">
-<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/osamhack2020/APP_KookMoBanUser_PonJohmNaimann">
-<img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/osamhack2020/APP_KookMoBanUser_PonJohmNaimann">
-<img alt="GitHub" src="https://img.shields.io/github/license/osamhack2020/APP_KookMoBanUser_PonJohmNaimann">
-</p>
-
 
 ## 기능 설계
 
